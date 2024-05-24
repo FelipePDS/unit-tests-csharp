@@ -1,0 +1,15 @@
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\bin\Debug\net6.0\GerenciadorMusicas.exe
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\bin\Debug\net6.0\GerenciadorMusicas.deps.json
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\bin\Debug\net6.0\GerenciadorMusicas.runtimeconfig.json
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\bin\Debug\net6.0\GerenciadorMusicas.dll
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\bin\Debug\net6.0\GerenciadorMusicas.pdb
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.csproj.AssemblyReference.cache
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.AssemblyInfoInputs.cache
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.AssemblyInfo.cs
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.csproj.CoreCompileInputs.cache
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.dll
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\refint\GerenciadorMusicas.dll
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.pdb
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\GerenciadorMusicas.genruntimeconfig.cache
+C:\Users\fsilva\source\repos\Estudos\TestesUnitariosCSharp\GerenciadorMusicas\GerenciadorMusicas\obj\Debug\net6.0\ref\GerenciadorMusicas.dll
