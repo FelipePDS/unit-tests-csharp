@@ -1,6 +1,6 @@
 # Unit tests in .NET 🧪
 
-Testes unitários no C# feitos através do [curso da Alura](https://cursos.alura.com.br/formacao-testes-em-dotnet): 
+Testes unitários em .NET feitos através do [curso da Alura](https://cursos.alura.com.br/formacao-testes-em-dotnet): 
 
 ## Testes em .NET
 ### Domine os testes em .NET usando XUnit, TDD, Selenium e Azure Devops.
