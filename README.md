@@ -4,28 +4,30 @@
 
 <h2 align="center">🎯 Objetivo</h2>
 
-Testes unitários em .NET feitos através do [curso da Alura](https://cursos.alura.com.br/formacao-testes-em-dotnet): 
+<p align="center">
+    Testes unitários em .NET feitos através do <a href="https://cursos.alura.com.br/formacao-testes-em-dotnet">curso da Alura:</a>
+</p>
 
-> **Testes em .NET**
-> **Domine os testes em .NET usando XUnit, TDD, Selenium e Azure Devops.**
+<p align="center">
+    <b>Domine os testes em .NET usando XUnit, TDD, Selenium e Azure Devops.</b>
+</p>
 
-Segue os passos de aprendizagem dos conteúdos que foram divididos no curso:
+<p align="center">
+    Segue os passos de aprendizagem dos conteúdos que foram divididos no curso:
+</p>
 
-#### Passo 1:
 
-![Passo 1](https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step1.png)
+<h4 align="center">Passo 1:</h4>
+<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step1.png">
 
-#### Passo 2:
+<h4 align="center">Passo 2:</h4>
+<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step2.png">
 
-![Passo 2](https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step2.png)
+<h4 align="center">Passo 3:</h4>
+<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step3.png">
 
-#### Passo 3:
-
-![Passo 3](https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step3.png)
-
-#### Passo 4:
-
-![Passo 4](https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step4.png)
+<h4 align="center">Passo 4:</h4>
+<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step4.png">
 
 <!-- Tecnologias -->
 
