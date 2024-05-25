@@ -5,11 +5,10 @@
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
-    Testes unitários em .NET feitos através do <a href="https://cursos.alura.com.br/formacao-testes-em-dotnet">curso da Alura:</a>
+    Testes unitários em .NET feitos através do <a href="https://cursos.alura.com.br/formacao-testes-em-dotnet">curso Alura:</a>
     <br>
-    <b>Domine os testes em .NET usando XUnit, TDD, Selenium e Azure Devops.</b>
+    <b>"Domine os testes em .NET usando XUnit, TDD, Selenium e Azure Devops."</b>
 </p>
-
 
 <h4 align="center">Passo 1:</h4>
 <p align="center"><img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step1.png"></p>
