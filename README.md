@@ -67,21 +67,21 @@ $ mkdir name-dir && cd name-dir
 $ git init
 
 # rastreie o repositório
-$ git remote add -f origin https://github.com/FelipePDS/csharp
+$ git remote add -f origin https://github.com/FelipePDS/unit-tests-dotnet
 
 # sparse checkout ativo
 $ git config core.sparseCheckout true
 
-# crie um arquivo no caminho: .git/csharp/sparse-checkout
+# crie um arquivo no caminho: .git/unit-tests-dotnet/sparse-checkout
 # e insira o nome do subdiretório que você deseja clonar
-$ echo 'nameOfTheSubdirectory' >> .git/csharp/sparse-checkout
+$ echo 'nameOfTheSubdirectory' >> .git/unit-tests-dotnet/sparse-checkout
 
 # dê um pull no subdiretório
 $ git pull origin master
 ```
 <blockquote>Fonte: <a href="https://terminalroot.com.br/2019/09/como-clonar-somente-um-subdiretorio-com-git-ou-svn.html">terminalroot.com.br</a></blockquote>
 
-<p>Se você deseja clonar o projeto inteiro: <code>$ git clone https://github.com/FelipePDS/csharp.git</code></p>
+<p>Se você deseja clonar o projeto inteiro: <code>$ git clone https://github.com/FelipePDS/unit-tests-dotnet.git</code></p>
 
 <br>
 <h2 id="exercises" align="center">:pushpin: Mini projetos e exercícios do curso</h2>
