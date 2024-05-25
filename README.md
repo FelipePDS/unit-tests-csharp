@@ -6,28 +6,22 @@
 
 <p align="center">
     Testes unitários em .NET feitos através do <a href="https://cursos.alura.com.br/formacao-testes-em-dotnet">curso da Alura:</a>
-</p>
-
-<p align="center">
+    <br>
     <b>Domine os testes em .NET usando XUnit, TDD, Selenium e Azure Devops.</b>
-</p>
-
-<p align="center">
-    Segue os passos de aprendizagem dos conteúdos que foram divididos no curso:
 </p>
 
 
 <h4 align="center">Passo 1:</h4>
-<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step1.png">
+<p align="center"><img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step1.png"></p>
 
 <h4 align="center">Passo 2:</h4>
-<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step2.png">
+<p align="center"><img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step2.png"></p>
 
 <h4 align="center">Passo 3:</h4>
-<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step3.png">
+<p align="center"><img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step3.png"></p>
 
 <h4 align="center">Passo 4:</h4>
-<img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step4.png">
+<p align="center"><img align="center" src="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/.github/curso_step4.png"></p>
 
 <!-- Tecnologias -->
 
@@ -45,7 +39,7 @@
 
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhas">JornadaMilhas</a></kbd></td>
-    <td>Introdução aos testes unitários usando o XUnit em um projeto em C# utilizando de uma simulação de consulta de viagens.</td>
+    <td>Introdução aos testes unitários com o XUnit em um projeto em C#, simulando uma consulta de viagens.</td>
     <td>23/05/2024</td>
     <td>✅</td>
   </tr>
