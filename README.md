@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://github.com/FelipePDS/unit-tests-dotnet/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Felipepds/unit-tests-dotnet?style=for-the-badge"/></a> 
   <img src="https://img.shields.io/github/last-commit/FelipePDS/unit-tests-dotnet?color=fb1569&style=for-the-badge"/>
-  <img src="https://img.shields.io/static/v1?label=.NET&message=6.0&color=512BD4&style=for-the-badge"/> 
+  <img src="https://img.shields.io/static/v1?label=.NET&logo=.NET&message=6.0&color=512BD4&style=for-the-badge"/> 
   <img src="https://img.shields.io/static/v1?label=Unit+Test&message=XUnit&color=000000&style=for-the-badge"/>  <br>
-  <img src="https://img.shields.io/static/v1?label=Web+Unit+Test&message=Selenium&color=42b02a&style=for-the-badge"/> 
-  <img src="https://img.shields.io/static/v1?label=Pipeline&message=Azure+DevOps&color=0078d4&style=for-the-badge"/> 
+  <img src="https://img.shields.io/static/v1?logo=selenium&label=Web+Unit+Test&message=Selenium&color=43B02A&style=for-the-badge"/> 
+  <img src="https://img.shields.io/static/v1?logo=azuredevops&label=Pipeline&message=Azure+DevOps&color=0078D7&style=for-the-badge"/> 
 </p>
 
 <br>
