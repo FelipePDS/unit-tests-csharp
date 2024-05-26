@@ -9,18 +9,18 @@ namespace GerenciadorMusicas.Test
         [Fact]
         public void MusicNameIsValid()
         {
-            var music = new Music("Billie Jean", "Maiquinho Jadson");
+            var music = new Music("Chora, Me Liga", "Jo√£o Bosco & Vin√≠cius");
             var musicWithoutArtist = new Music("Billie Jean", null);
 
             Assert.True(music.IsValid);
             Assert.True(!musicWithoutArtist.IsValid);
-            Assert.DoesNotContain("A m˙sica n„o possui nome v·lido.", musicWithoutArtist.Errors.Summary);
+            Assert.DoesNotContain("A m√∫sica n√£o possui nome v√°lido.", musicWithoutArtist.Errors.Summary);
         }
 
         [Fact]
         public void MusicIdIsValid()
         {
-            var music = new Music("A mais pedida", "Raimundos");
+            var music = new Music("Billie Jean", "Maiquinho Jadson");
 
             Assert.True(UUIDGenerator.IsValidUUID(music.Id));
             Assert.True(music.IsValid);
@@ -29,7 +29,7 @@ namespace GerenciadorMusicas.Test
         [Fact]
         public void MusicStringIsValid()
         {
-            var music = new Music("Yesterday", "Beatles");
+            var music = new Music("Balada Boa", "Gusttavo Lima");
 
             Assert.Equal(@$"Id: {music.Id} Nome: {music.Name}", music.ToString());
         }
