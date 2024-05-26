@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="#objective">🎯 Objetivo</a> &bull; 
-  <a href="#technologies">:computer: Technologies</a> &bull; 
-  <a href="#clone">:open_file_folder: Clone Subdirectories</a> <br>
-  <a href="#exercises">:pushpin: Exercises and Mini Project</a> &bull; 
-  <a href="#author">:bust_in_silhouette: Author</a> &bull; 
-  <a href="#license">:page_with_curl: License</a>
+  <a href="#technologies">:computer: Tecnologias</a> &bull; 
+  <a href="#clone">:open_file_folder: Clonar subdiretórios</a> <br>
+  <a href="#exercises">:pushpin: Mini projetos e exercícios do curso</a> &bull; 
+  <a href="#author">:bust_in_silhouette: Autor</a> &bull; 
+  <a href="#license">:page_with_curl: Licensa</a>
 </p>
 
 <br>
@@ -77,7 +77,7 @@ $ git config core.sparseCheckout true
 $ echo 'nameOfTheSubdirectory' >> .git/unit-tests-dotnet/sparse-checkout
 
 # dê um pull no subdiretório
-$ git pull origin master
+$ git pull origin main
 ```
 <blockquote>Fonte: <a href="https://terminalroot.com.br/2019/09/como-clonar-somente-um-subdiretorio-com-git-ou-svn.html">terminalroot.com.br</a></blockquote>
 
