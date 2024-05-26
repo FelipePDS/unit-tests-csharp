@@ -18,7 +18,7 @@
   <a href="#clone">:open_file_folder: Clonar subdiretórios</a> <br>
   <a href="#exercises">:pushpin: Mini projetos e exercícios do curso</a> &bull; 
   <a href="#author">:bust_in_silhouette: Autor</a> &bull; 
-  <a href="#license">:page_with_curl: Licensa</a>
+  <a href="#license">:page_with_curl: Licença</a>
 </p>
 
 <br>
