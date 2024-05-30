@@ -86,6 +86,8 @@ $ git pull origin main
 <br>
 <h2 id="exercises" align="center">:pushpin: Mini projetos e exercícios do curso</h2>
 
+<h3 align="center"><kbd>1. Fundamentos de testes</kbd></h3>
+
 <table align="center">
   <tr align="center">
     <th>REPO</th>
@@ -96,15 +98,29 @@ $ git pull origin main
 
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhas">JornadaMilhas</a></kbd></td>
-    <td>Introdução aos testes unitários com o XUnit em um projeto em C#, simulando uma consulta de viagens.</td>
+    <td><b>1.1.1.</b> Introdução aos testes unitários com o XUnit em um projeto em C#, simulando uma consulta de viagens.</td>
     <td>23/05/2024</td>
     <td>✅</td>
   </tr>
 
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/GerenciadorMusicas">GerenciadorMusicas</a></kbd></td>
-    <td>Projeto com o objetivo de cumprir uma lista de exercícios sobre a introdução dos testes usando o XUnit.</td>
+    <td><b>1.1.2.</b> Projeto com o objetivo de cumprir uma lista de exercícios sobre a introdução dos testes usando o XUnit.</td>
     <td>24/05/2024</td>
+    <td>✅</td>
+  </tr>
+
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhasV2">GerenciadorMusicas</a></kbd></td>
+    <td><b>1.2.1.</b> Introdução ao uso de nomenclaturas nos métodos de teste e uso do Theory no XUnit.</td>
+    <td>27/05/2024</td>
+    <td>✅</td>
+  </tr>
+
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/GerenciadorMusicasV2">GerenciadorMusicas</a></kbd></td>
+    <td><b>1.2.2.</b> Exercícios e aplicação do uso de nomenclaturas nos métodos de teste e uso do Theory no XUnit.</td>
+    <td>30/05/2024</td>
     <td>✅</td>
   </tr>
 </table>
