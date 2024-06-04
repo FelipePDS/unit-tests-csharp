@@ -26,7 +26,7 @@ namespace JornadaMilhas.Model
                 {
                     Price *= (1 - MAX_DISCOUNT);
                 }
-                else
+                else if (discount > 0)
                 {
                     Price -= discount;
                 }
