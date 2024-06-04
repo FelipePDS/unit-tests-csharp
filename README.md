@@ -111,14 +111,14 @@ $ git pull origin main
   </tr>
 
   <tr align="center">
-    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhasV2">GerenciadorMusicas</a></kbd></td>
+    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhasV2">GerenciadorMusicasV2</a></kbd></td>
     <td><b>1.2.1.</b> Introdução ao uso de nomenclaturas nos métodos de teste e uso do Theory no XUnit.</td>
     <td>27/05/2024</td>
     <td>✅</td>
   </tr>
 
   <tr align="center">
-    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/GerenciadorMusicasV2">GerenciadorMusicas</a></kbd></td>
+    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/GerenciadorMusicasV2">GerenciadorMusicasV2</a></kbd></td>
     <td><b>1.2.2.</b> Exercícios e aplicação do uso de nomenclaturas nos métodos de teste e uso do Theory no XUnit.</td>
     <td>30/05/2024</td>
     <td>✅</td>
