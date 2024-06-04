@@ -126,14 +126,14 @@ $ git pull origin main
 
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhasV3">JornadaMilhasV3</a></kbd></td>
-    <td><b>1.3.1.</b> Introdução ao TDD, realizando testes com desconto no projeto de oferta de viagens.</td>
+    <td><b>1.3.1.</b> Introdução ao TDD em XUnit, realizando testes com desconto no projeto de oferta de viagens.</td>
     <td>04/06/2024</td>
     <td>✅</td>
   </tr>
 
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/GerenciadorMusicasV3">GerenciadorMusicasV3</a></kbd></td>
-    <td><b>1.3.2.</b> Aplicando exercícios de testes utilizando o formato TDD no projeto Gerenciador de Músicas.</td>
+    <td><b>1.3.2.</b> Aplicando exercícios de testes utilizando o formato TDD em XUnit no projeto Gerenciador de Músicas.</td>
     <td>04/06/2024</td>
     <td>🚧</td>
   </tr>
