@@ -134,10 +134,12 @@ $ git pull origin main
   <tr align="center">
     <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/GerenciadorMusicasV3">GerenciadorMusicasV3</a></kbd></td>
     <td><b>1.3.2.</b> Aplicando exercícios de testes utilizando o formato TDD em XUnit no projeto Gerenciador de Músicas.</td>
-    <td>04/06/2024</td>
-    <td>🚧</td>
+    <td>05/06/2024</td>
+    <td>✅</td>
   </tr>
 </table>
+
+<!-- 🚧✅ -->
 
 <br>
 <h2 align="center" id="author">:bust_in_silhouette: Autor</h2>
