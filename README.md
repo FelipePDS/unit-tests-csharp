@@ -137,6 +137,13 @@ $ git pull origin main
     <td>05/06/2024</td>
     <td>✅</td>
   </tr>
+
+  <tr align="center">
+    <td><kbd><a href="https://github.com/FelipePDS/unit-tests-dotnet/tree/main/JornadaMilhasV4">JornadaMilhasV4</a></kbd></td>
+    <td><b>1.4.1.</b> Introdução a cobertura de testes em XUnit usando a biblioteca Stryker.NET</td>
+    <td>17/06/2024</td>
+    <td>✅</td>
+  </tr>
 </table>
 
 <!-- 🚧✅ -->
